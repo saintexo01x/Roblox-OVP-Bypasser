@@ -10,6 +10,6 @@ if %errorlevel% neq 0 (
 
 :: Run the executable file
 echo Running the executable...
-start RobloxOVPBYPASS.exe
+start RobloxOVPBYPASSER.exe
 
 pause
